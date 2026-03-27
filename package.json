@@ -1,0 +1,7 @@
+{
+  "name": "u3.media",
+  "scripts": {
+    "start": "bun run server.ts",
+    "build": "bash scripts/compile-games.sh"
+  }
+}

@@ -17,4 +17,4 @@ GOPONG_DIR="../Go_Pong"
 ${GOPONG_DIR}/scripts/build-wasm.sh
 
 # Copy to our folder
-cp ${GOPONG_DIR}/build/go_pong.wasm ./docs/games/gopong/go_pong.wasm
+cp ${GOPONG_DIR}/build/go_pong.wasm ./public/games/gopong/go_pong.wasm
